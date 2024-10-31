@@ -1,0 +1,26 @@
+.elementor-restaurant-menu-widget .menu-item {
+    margin-bottom: 24px;
+}
+
+.elementor-restaurant-menu-widget .menu-item .menu-item-title-row {
+    display: table;
+    width: 100%;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.elementor-restaurant-menu-widget .menu-item .menu-item-title-row .menu-item-title {
+    display: table-cell;
+    word-break: break-word;
+}
+
+.elementor-restaurant-menu-widget .menu-item .menu-item-title-row .price {
+    display: table-cell;
+    text-align: right;
+}
+
+.elementor-restaurant-menu-widget .menu-item .menu-item-description {
+    width: 100%;
+    font-style: italic;
+    word-wrap: break-word;
+}
